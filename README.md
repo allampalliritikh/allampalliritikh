@@ -9,10 +9,6 @@ Learning, experimenting, and growing through real-world projects.
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" height="55" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -28,10 +24,6 @@ Learning, experimenting, and growing through real-world projects.
 </div>
 
 <br/><br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=allampalliritikh&theme=dracula&hide_border=true" height="150"/>
-</div>
 
 <br/>
 
